@@ -1,6 +1,5 @@
 import math
 
-
 flag = False
 
 a1 = 0
